@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "ADmyBRAND AI Suite - Transform Your Marketing with AI",
     description: "AI-powered marketing platform for automation, analytics, and customer engagement.",
   },
-    generator: 'v0.dev'
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
